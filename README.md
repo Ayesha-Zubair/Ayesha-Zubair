@@ -1,6 +1,7 @@
 ![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Ayesha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" alt="coding" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayesha-zubair&label=Profile%20views&color=0e75b6&style=flat" alt="ayesha-zubair" /> </p>
 
