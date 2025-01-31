@@ -17,5 +17,3 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayesha-zubair&theme=dark" alt="ayesha-zubair" /></p>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ayesha-Zubair)](https://git.io/streak-stats)
